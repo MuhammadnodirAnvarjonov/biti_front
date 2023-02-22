@@ -1,0 +1,1 @@
+import{o as e}from"./ogohlantirish-395bf328.js";import{o,c as t,g as a,e as r}from"./index-3c9fbc29.js";import"./_plugin-vue_export-helper-c27b6911.js";const _={__name:"Document",setup(c){return(s,n)=>(o(),t("div",null,[a("Document "),r(e,{class:"ogoh"})]))}};export{_ as default};

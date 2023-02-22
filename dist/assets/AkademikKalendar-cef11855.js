@@ -1,0 +1,1 @@
+import{o as e}from"./ogohlantirish-395bf328.js";import{_ as a}from"./_plugin-vue_export-helper-c27b6911.js";import{o,c as t,g as _,e as r}from"./index-3c9fbc29.js";const c={__name:"AkademikKalendar",setup(s){return(n,d)=>(o(),t("div",null,[_(" Academic calendar "),r(e,{class:"ogoh"})]))}},p=a(c,[["__scopeId","data-v-fb5e8587"]]);export{p as default};

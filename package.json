@@ -1,0 +1,44 @@
+{
+  "name": "learningproject",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "author": {
+    "name": "Anvarjonov Muhammadnodir",
+    "email": "muhammadnodiranvarjonov0911@gmail.com"
+  },
+  "dependencies": {
+    "@vicons/carbon": "^0.12.0",
+    "@vicons/material": "^0.12.0",
+    "@vueup/vue-quill": "^1.1.0",
+    "@vueuse/core": "^9.11.1",
+    "axios": "^1.2.2",
+    "pinia": "^2.0.28",
+    "socket.io-client": "^4.5.4",
+    "vue": "^3.2.45",
+    "vue-axios": "^3.5.2",
+    "vue-router": "^4.1.6",
+    "vue3-smooth-dnd": "^0.0.2"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.4",
+    "@vicons/fluent": "^0.12.0",
+    "@vicons/ionicons5": "^0.12.0",
+    "@vicons/material": "^0.12.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vitejs/plugin-vue-jsx": "^3.0.0",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.22.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "naive-ui": "^2.34.3",
+    "prettier": "^2.7.1",
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0",
+    "vite": "^4.0.0"
+  }
+}

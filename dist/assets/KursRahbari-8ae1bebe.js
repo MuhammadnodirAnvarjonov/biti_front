@@ -1,0 +1,1 @@
+import{o as e}from"./ogohlantirish-395bf328.js";import{_ as a}from"./_plugin-vue_export-helper-c27b6911.js";import{o as r,c as o,g as s,e as t}from"./index-3c9fbc29.js";const _={__name:"KursRahbari",setup(c){return(n,i)=>(r(),o("div",null,[s(" Kurs rahbari "),t(e,{class:"ogoh"})]))}},l=a(_,[["__scopeId","data-v-c8eb7d98"]]);export{l as default};

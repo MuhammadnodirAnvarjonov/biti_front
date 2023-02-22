@@ -1,0 +1,1 @@
+import{o as a}from"./ogohlantirish-395bf328.js";import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,c as t,g as _,e as r}from"./index-3c9fbc29.js";const s={__name:"IlmiyRahbari",setup(c){return(i,l)=>(o(),t("div",null,[_(" Ilmiy Rahbar "),r(a,{class:"ogoh"})]))}},d=e(s,[["__scopeId","data-v-2bfac223"]]);export{d as default};

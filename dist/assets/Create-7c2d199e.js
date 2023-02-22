@@ -1,0 +1,1 @@
+import{F as e}from"./Form-3c1e4b7f.js";import{o as r,c as o,e as t}from"./index-3c9fbc29.js";import"./Form-56e3c339.js";import"./_plugin-vue_export-helper-c27b6911.js";import"./AddCircleSharp-c9968127.js";const l={__name:"Create",setup(a){return(m,c)=>(r(),o("div",null,[t(e)]))}};export{l as default};

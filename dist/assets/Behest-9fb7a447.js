@@ -1,0 +1,1 @@
+import{o as e}from"./ogohlantirish-395bf328.js";import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,c as a,g as s,e as _}from"./index-3c9fbc29.js";const r={__name:"Behest",setup(c){return(n,p)=>(t(),a("div",null,[s("Buyruqlar "),_(e,{class:"ogoh"})]))}},u=o(r,[["__scopeId","data-v-ad7a4283"]]);export{u as default};

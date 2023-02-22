@@ -1,0 +1,1 @@
+import{F as e}from"./Form-56e3c339.js";import{o,c as r,e as t}from"./index-3c9fbc29.js";import"./_plugin-vue_export-helper-c27b6911.js";const _={__name:"Update",setup(a){return(c,m)=>(o(),r("div",null,[t(e)]))}};export{_ as default};
